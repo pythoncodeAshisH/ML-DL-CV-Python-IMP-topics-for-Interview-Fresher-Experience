@@ -1,4 +1,5 @@
 
+# ML, DL, CV, Python IMP topics for Interview Fresher & Experience
 
 
 1.  **Supervised Learning vs. Unsupervised Learning:**
@@ -2468,4 +2469,18 @@ By incorporating spatial attention mechanisms, deep learning models for fine-gra
 GQNs are a promising approach for generating novel views of 3D scenes and objects, enabling the synthesis of realistic images from limited observations and providing valuable insights into 3D scene understanding and representation learning.
 
 
+
+
+## Authors
+
+- [@pythoncodeAshisH](https://github.com/pythoncodeAshisH)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
