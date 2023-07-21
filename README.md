@@ -107,8 +107,6 @@
 
 If you have any specific questions or need more detailed explanations, feel free to ask!
 
-> continue
-
 Certainly! Let's continue with more explanations for each concept:
 
 6.  **How Convolutional Neural Networks (CNNs) Work:**
